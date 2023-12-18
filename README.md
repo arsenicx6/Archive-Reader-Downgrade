@@ -10,6 +10,8 @@ Because the dev of [Archive Reader](https://play.google.com/store/apps/details?i
 
 This repository allows access to an older version of the app, version 1.5.2, that users can install to subvert this update.
 
+![Coming for your source code too buddy.](https://github.com/arsenicx6/Archive-Reader-Downgrade/blob/main/kek.PNG?raw=true)
+
 # How
-Download the APK
-Install the APK on your android device.
+- Download the APK
+- Install the APK on your android device.
