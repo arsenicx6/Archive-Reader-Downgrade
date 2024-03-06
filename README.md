@@ -3,6 +3,8 @@ A repository to save the older version of the Archive Reader app to avoid its su
 
 # Download
 ***[DOWNLOAD THE DOWNGRADED APK](https://mega.nz/file/0Ch3zKrY#Wp2CmymjpNrkZtg7FH_r5wZ5z8IN1u_rX9dZ6S9A0To)***
+***[DOWNLOAD MIRROR 1 - MediaFire](https://www.mediafire.com/file/mokvnun8gudnzoa/Archive_Reader_1.5.2.apk/file)***
+***[DOWNLOAD MIRROR 2 - Google Drive](https://drive.google.com/file/d/1KLrM7s4wqeVz-1Fd4Ce2umTdfptiytzu/view?usp=sharing)***
 
 
 # Why
