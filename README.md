@@ -1,6 +1,8 @@
 # Archive-Reader-Downgrade
 A repository to save the older version of the Archive Reader app to avoid its sudden subscription model.
 
+# DISCLAIMER: IT'S LIKELY THAT THE APP IS DEAD. THE NEWER VERSIONS SEEM TO BE BUGGY, AND THESE OLDER VERSIONS SIMPLY SEEM TO NOT WORK. THERE MAY BE A WORKAROUND BUT I HAVE YET TO LOOK INTO IT.
+
 # Download
 ***[DOWNLOAD THE DOWNGRADED APK](https://mega.nz/file/0Ch3zKrY#Wp2CmymjpNrkZtg7FH_r5wZ5z8IN1u_rX9dZ6S9A0To)***
 
